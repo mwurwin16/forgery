@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
