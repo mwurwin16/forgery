@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Fix Yolo 8.0.206 scale bug (#7821)
