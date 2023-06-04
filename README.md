@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
