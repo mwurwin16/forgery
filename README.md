@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
