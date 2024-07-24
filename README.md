@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Add horizontal Mosaic3 augmentation (#6898)
