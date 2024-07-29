@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
