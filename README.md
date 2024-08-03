@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Fix heatmaps width-height order bug (#7184)
