@@ -1,1 +1,1 @@
-fix predict with class filter
+Cleanup Docs languages (#7865)
