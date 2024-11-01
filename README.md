@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Add quantization support to TensorFlow.js converter (#7008)
